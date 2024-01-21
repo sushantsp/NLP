@@ -1,8 +1,8 @@
 ### 1) Generative AI with Large Language Models - Coursera.
 
 ### 2) Short course on Generative AI – 
-•	ChatGPT Prompt Engineering for Developers
-•	Building Systems with the ChatGPT API
+* ChatGPT Prompt Engineering for Developers
+* Building Systems with the ChatGPT API
 ### 3) Specializations/Courses on Coursera – 
 * Deep Learning (5 Course), 
 * TensorFlow in Practice – (4 Course), Data Visualization Tableau 
